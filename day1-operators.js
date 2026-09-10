@@ -37,3 +37,4 @@ const [first, second, third] = students;
 console.log(first);
 console.log(second);
 console.log(third);
+
